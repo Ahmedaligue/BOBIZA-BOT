@@ -8,13 +8,13 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],
-  ['212605784394', 'BOBIZ BOT', true],  
-  ['212605784394', 'BOBIZ BOT', true],
+  ['212658594530', 'SENKU BOT', true],
+  ['212605784394', 'BOBIZ BOT', false],
+  ['212605784394', 'BOBIZ BOT', false],
+  ['212605784394', 'BOBIZ BOT', false],
+  ['212605784394', 'BOBIZ BOT', false],
+  ['212605784394', 'BOBIZ BOT', false],  
+  ['212605784394', 'BOBIZ BOT', false],
   ['212605784394', 'BOBIZ BOT ', false],
   ['212605784394'],
   ['212605784394'],
@@ -27,14 +27,14 @@ global.owner = [
   ['212605784394']
 ] 
 
-global.suittag = ['212605784394'] 
-global.prems = ['212605784394'] 
+global.suittag = ['212658594530'] 
+global.prems = ['212658594530'] 
 
-global.packname = '亗『𝐁𝐎𝐁𝐈𝐙𝐀 𝐁𝐎𝐓』亗'
-global.author = 'ミ💖 Noureddine Ouafy 💖彡'
-global.wm = '亗『𝐁𝐎𝐁𝐈𝐙𝐀 𝐁𝐎𝐓』亗'
-global.igfg = 'ミ💖 Noureddine Ouafy 💖彡'
-global.wait = '  ❛ ━━･❪ BOBIZA BOT ❫ ･━━ ❜ \n جاري تلبية طلبكم تابع صاحب البوت في الانستغرام \ninstagram.com/noureddine_ouafy\nانضم الى مجموعتي على الواتساب فيها أنشر الميزات الجديدة في البوت \nhttps://chat.whatsapp.com/FCudAHwTYLtJu242Zv1MmR'
+global.packname = '亗『SENKU 𝐁𝐎𝐓』亗'
+global.author = 'ミ💖 SENKU 💖彡'
+global.wm = '亗『SENKU 𝐁𝐎𝐓』亗'
+global.igfg = 'ミ💖 SENKU ISHIGAMI 💖彡'
+global.wait = '  ❛ ━━･❪ SENKUBOT ❫ ･━━ ❜ \n جاري تلبية طلبكم تابع صاحب البوت في الانستغرام \ninstagram.com/noureddine_ouafy\nانضم الى مجموعتي على الواتساب فيها أنشر الميزات الجديدة في البوت \nhttps://chat.whatsapp.com/FCudAHwTYLtJu242Zv1MmR'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
@@ -60,7 +60,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '5219993404349'
+global.nomorown = '212658594530 '
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
